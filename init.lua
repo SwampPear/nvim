@@ -1,2 +1,2 @@
-require("core")
---require("lazy")
+require("mac.core")
+require("mac.lazy")
